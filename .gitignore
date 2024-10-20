@@ -3,7 +3,6 @@
 **/.cache
 **/build
 **/.env
-**/.react-router
 **/tsconfig.tsbuildinfo
 
 **/vite.config.*.timestamp-*
